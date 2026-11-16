@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <!-- Silhouette -->
+  <g fill="#55BED0">
+    <circle cx="42" cy="37" r="12"/>
+
+    <path d="M23 96
+             C23 72 30 56 42 56
+             C54 56 61 72 61 96
+             Z"/>
+  </g>
+
+  <!-- Indication d'âge -->
+  <text x="69"
+        y="78"
+        fill="#55BED0"
+        font-family="Arial, sans-serif"
+        font-size="27"
+        font-weight="700">&lt;15</text>
+
+</svg>
