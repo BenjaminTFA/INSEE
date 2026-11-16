@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="none"
+     stroke="#222550"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Maison -->
+    <path d="M18 58 L64 20 L110 58"/>
+    <path d="M28 51 V108 H100 V51"/>
+
+  </g>
+
+  <!-- Personnes -->
+  <g fill="#222550">
+
+    <circle cx="51" cy="68" r="8"/>
+    <circle cx="77" cy="68" r="8"/>
+
+    <path d="M39 100
+             C39 86 44 78 51 78
+             C58 78 62 86 62 100 Z"/>
+
+    <path d="M66 100
+             C66 86 70 78 77 78
+             C84 78 89 86 89 100 Z"/>
+
+  </g>
+
+</svg>
