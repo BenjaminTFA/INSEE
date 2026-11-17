@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="none"
+     stroke="#222550"
+     stroke-width="6"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Maison arrière gauche -->
+    <path d="M9 61 L36 39 L60 59"/>
+    <path d="M17 55 V96 H50 V55"/>
+
+    <!-- Maison principale -->
+    <path d="M45 60 L78 32 L113 60"/>
+    <path d="M54 53 V105 H104 V53"/>
+    <path d="M72 105 V79 H88 V105"/>
+
+  </g>
+
+</svg>
