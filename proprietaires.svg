@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="none"
+     stroke="#55BED0"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Maison -->
+    <path d="M14 55 L54 22 L92 55"/>
+    <path d="M25 48 V101 H74"/>
+
+    <!-- Clé -->
+    <circle cx="89" cy="84" r="15"/>
+    <path d="M78 94 L61 111"/>
+    <path d="M66 106 L72 112"/>
+    <path d="M72 100 L78 106"/>
+
+  </g>
+
+</svg>
