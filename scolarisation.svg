@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="#CF8B53">
+    <circle cx="33" cy="37" r="11"/>
+
+    <path d="M17 79
+             C18 59 24 50 33 50
+             C42 50 48 59 49 79 Z"/>
+  </g>
+
+  <g fill="none"
+     stroke="#CF8B53"
+     stroke-width="6"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Livre ouvert -->
+    <path d="M55 55
+             C72 49 82 54 88 62
+             V101
+             C79 94 68 92 55 97 Z"/>
+
+    <path d="M88 62
+             C94 54 104 49 121 55
+             V97
+             C108 92 97 94 88 101 Z"/>
+
+    <path d="M88 62 V101"/>
+
+  </g>
+
+</svg>
