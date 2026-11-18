@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="none"
+     stroke="#55BED0"
+     stroke-width="6"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Toque -->
+    <path d="M14 54 L57 32 L100 54 L57 76 Z"/>
+
+    <path d="M34 67 V84
+             C46 95 68 95 80 84
+             V67"/>
+
+    <!-- Niveau supérieur -->
+    <path d="M91 89 L103 77 L115 89"/>
+    <path d="M91 104 L103 92 L115 104"/>
+
+  </g>
+
+</svg>
