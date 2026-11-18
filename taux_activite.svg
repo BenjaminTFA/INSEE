@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <circle cx="64"
+          cy="64"
+          r="45"
+          fill="none"
+          stroke="#CF8B53"
+          stroke-width="7"
+          opacity="0.28"/>
+
+  <path d="M64 19
+           A45 45 0 1 1 27 90"
+        fill="none"
+        stroke="#CF8B53"
+        stroke-width="8"
+        stroke-linecap="round"/>
+
+  <g fill="none"
+     stroke="#CF8B53"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <path d="M38 81 L57 63 L70 70 L94 43"/>
+    <path d="M79 43 H94 V58"/>
+
+  </g>
+
+</svg>
