@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="#222550">
+    <circle cx="39" cy="37" r="13"/>
+
+    <path d="M19 96
+             C19 69 27 54 39 54
+             C51 54 59 69 59 96
+             Z"/>
+  </g>
+
+  <g fill="none"
+     stroke="#222550"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <rect x="72" y="67" width="39" height="29" rx="3"/>
+    <path d="M84 67 V59 H99 V67"/>
+
+    <!-- Rupture -->
+    <path d="M65 48 L76 59"/>
+    <path d="M76 48 L65 59"/>
+
+  </g>
+
+</svg>
