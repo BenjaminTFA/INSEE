@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="none"
+     stroke="#222550"
+     stroke-width="7"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Toque -->
+    <path d="M15 49 L64 25 L113 49 L64 74 Z"/>
+
+    <path d="M36 63 V83
+             C49 96 79 96 92 83
+             V63"/>
+
+    <!-- Pompon -->
+    <path d="M113 49 V82"/>
+    <circle cx="113" cy="88" r="5" fill="#222550"/>
+
+  </g>
+
+</svg>
