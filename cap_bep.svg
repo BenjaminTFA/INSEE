@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+
+  <g fill="none"
+     stroke="#55BED0"
+     stroke-width="6"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+
+    <!-- Diplôme -->
+    <rect x="18" y="24" width="67" height="53" rx="4"/>
+    <path d="M30 40 H72"/>
+    <path d="M30 53 H62"/>
+
+    <!-- Ruban -->
+    <circle cx="68" cy="67" r="10"/>
+    <path d="M62 75 L57 104 L68 96 L78 104 L74 75"/>
+
+    <!-- Outil simplifié -->
+    <path d="M90 51
+             C103 52 111 62 108 73
+             L79 102"/>
+    <path d="M78 102 L70 94"/>
+
+  </g>
+
+</svg>
